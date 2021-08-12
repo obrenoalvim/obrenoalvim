@@ -1,4 +1,6 @@
 ## Hello, World!
+![visitors](https://visitor-badge.glitch.me/badge?page_id=brenoalvim.visitor-badge)
+![GitHub followers](https://img.shields.io/github/followers/brenoalvim?style=social)
  <div>
   <a href="https://github.com/brenoalvim">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenoalvim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
