@@ -1,4 +1,7 @@
-## Hello, World!
+## Hello, World! 🌎
+
+### Hi, my name is Breno Alvim, I'm 19 years old and I'm currently working as a Web Developer.
+
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=brenoalvim.visitor-badge)
 ![GitHub Followers](https://img.shields.io/github/followers/brenoalvim?style=social)
  <div>
@@ -8,7 +11,7 @@
    
 </div>
  
-## Technologies and tools
+## 💻Technologies and Tools 👨🏽‍💻
  
 <div style="display: inline_block;"><br>
   <img align="center" title="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
