@@ -33,11 +33,15 @@
  
   <img align="center" title="Dart" alt="Logo Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   <img align="center" title="Node" alt="Logo Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" title="Gulp" alt="Logo Gulp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg">
+  <img align="center" title="Laravel" alt="Logo Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg">
   <img align="center" title="Firebase" alt="Logo Firebase" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg">
   <img align="center" title="Sass" alt="Logo Sass" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
   <img align="center" title="Vue.js" alt="Logo Vue" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
   <img align="center" title="React" alt="Logo React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img align="center" title="Redux" alt="Logo Redux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg">
   <img align="center" title="Pandas" alt="Logo Pandas" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
+  <img align="center" title="Wordpress" alt="Logo Wordpress" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg">
   <img align="center" title="Docker" alt="Logo Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
   <img align="center" title="AWS" alt="Logo AWS" height="30" width="40" src="https://www.reshiftsecurity.com/wp-content/uploads/2020/02/AWS3.png">
  
