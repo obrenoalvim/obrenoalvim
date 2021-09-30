@@ -26,6 +26,7 @@
   <img align="center" title="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">  
   <img align="center" title="Visual Studio Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" title="Adobe Photoshop" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg">
+ <img align="center" title="Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
 </div>
  
  ## Contacts
