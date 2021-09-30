@@ -4,6 +4,9 @@
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=brenoalvim.visitor-badge)
 ![GitHub Followers](https://img.shields.io/github/followers/brenoalvim?style=social)
+
+## GitHub Stats 📈
+
  <div>
   <a href="https://github.com/brenoalvim">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoalvim&layout=compact&langs_count=7&theme=react"/>
