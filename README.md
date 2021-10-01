@@ -9,8 +9,8 @@
 
  <div>
   <a href="https://github.com/brenoalvim">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoalvim&layout=compact&langs_count=7&theme=react"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenoalvim&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" title="GitHub Readme Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoalvim&layout=compact&langs_count=7&theme=react"/>
+  <img height="180em" title="GitHub Readme Stats" src="https://github-readme-stats.vercel.app/api?username=brenoalvim&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
    
 </div>
  
