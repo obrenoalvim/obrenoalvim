@@ -46,9 +46,6 @@
   <img align="center" title="AWS" alt="Logo AWS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
   <img align="center" title="Adobe XD" alt="Logo Adobe XD" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg">
  
- 
-  
- 
  ## Contacts
  
 <div>
@@ -57,4 +54,5 @@
  
  ![Snake animation](https://github.com/brenoalvim/brenoalvim/blob/output/github-contribution-grid-snake.svg)
  
-</div>
+ </div> 
+
