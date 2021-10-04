@@ -30,7 +30,6 @@
   <img align="center" title="Visual Studio Code" alt="Logo Visual Studio Code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"> 
   <img align="center" title="Bootstrap" alt="Logo Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">  
   <img align="center" title="Adobe Photoshop" alt="Logo Photoshop" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg">
- <img align="center" title="SEO" alt="Search Engine Optimization" height="30" width="30" src="https://cdn2.iconfinder.com/data/icons/pixel-perfect-at-24px-volume-7/24/2190-256.png">
  
 </div>
  
