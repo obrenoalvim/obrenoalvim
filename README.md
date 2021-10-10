@@ -56,8 +56,6 @@
   <a href = "mailto:alvimbrenosilva6@gmail.com" target="_blank"><img title="Gmail" Alt="Logo Google" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/google/google-plain.svg" target="_blank"></a>
   <a href="https://www.linkedin.com/in/brenoalvim" target="_blank"><img title="Linkedin" alt="Logo Linkedin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" target="_blank"></a>
  
- #
- 
  ![Snake animation](https://github.com/brenoalvim/brenoalvim/blob/output/github-contribution-grid-snake.svg)
  
  </div> 
