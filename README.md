@@ -47,8 +47,9 @@
   <img align="center" title="Visual Studio Code" alt="Logo Visual Studio Code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"> 
   <img align="center" title="Bootstrap" alt="Logo Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">  
   <img align="center" title="Adobe Photoshop" alt="Logo Photoshop" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg">
- <img align="center" title="Filezilla" alt="Logo Filezilla" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg"> 
-    
+  <img align="center" title="Filezilla" alt="Logo Filezilla" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg"> 
+  <img align="center" title="Postman" alt="Logo Postman" height="35" width="35" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">   
+ 
 </div>
  
  ## Contacts
