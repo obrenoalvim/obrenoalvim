@@ -6,10 +6,10 @@
 
  <div>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoalvim&layout=compact&langs_count=6&theme=react" target="_blank">
-  <img height="180px" title="GitHub Readme Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoalvim&layout=compact&langs_count=6&theme=react"/>
+  <img height="170px" title="GitHub Readme Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoalvim&layout=compact&langs_count=6&theme=react"/>
     </a>
    <a href="https://github-readme-stats.vercel.app/api?username=brenoalvim&show_icons=true&theme=react&include_all_commits=true&count_private=true" target="_blank">
-  <img height="180px" title="GitHub Readme Stats" src="https://github-readme-stats.vercel.app/api?username=brenoalvim&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="170px" title="GitHub Readme Stats" src="https://github-readme-stats.vercel.app/api?username=brenoalvim&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   </a>
 
 </div>
