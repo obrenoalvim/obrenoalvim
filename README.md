@@ -5,10 +5,10 @@
 ## GitHub Stats 📈
 
  <div>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoalvim&layout=compact&langs_count=8&theme=react" target="_blank">
+  <a title="GitHub Readme Stats" href="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoalvim&layout=compact&langs_count=8&theme=react" target="_blank">
   <img height="200px" title="GitHub Readme Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoalvim&layout=compact&langs_count=8&theme=react"/>
     </a>
-   <a href="https://github-readme-stats.vercel.app/api?username=brenoalvim&show_icons=true&theme=react&include_all_commits=true&count_private=true" target="_blank">
+   <a title="GitHub Readme Stats" href="https://github-readme-stats.vercel.app/api?username=brenoalvim&show_icons=true&theme=react&include_all_commits=true&count_private=true" target="_blank">
   <img height="200px" title="GitHub Readme Stats" src="https://github-readme-stats.vercel.app/api?username=brenoalvim&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   </a>
 
@@ -51,8 +51,11 @@
  ## Contacts
  
 <div>
-  <a href = "mailto:alvimbrenosilva6@gmail.com" target="_blank"><img title="Gmail" Alt="Logo Google" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/google/google-plain.svg" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/brenoalvim" target="_blank"><img title="Linkedin" alt="Logo Linkedin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" target="_blank"></a>
+  <a title="Email" href="mailto:alvimbrenosilva6@gmail.com" target="_blank">
+   <img title="Gmail" Alt="Logo Google" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/google/google-plain.svg" target="_blank">
+ </a>
+  <a title="Linkedin" href="https://www.linkedin.com/in/brenoalvim" target="_blank">
+   <img title="Linkedin" alt="Logo Linkedin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" target="_blank"></a>
  
 <!--  ![Snake animation](https://github.com/brenoalvim/brenoalvim/blob/output/github-contribution-grid-snake.svg) -->
  
