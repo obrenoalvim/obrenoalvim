@@ -42,10 +42,10 @@
   <img align="center" title="Experience with GitHub" alt="Logo GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
   <img align="center" title="Experience with Visual Studio Code" alt="Logo Visual Studio Code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"> 
   <img align="center" title="Experience with Bootstrap" alt="Logo Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">  
-  <img align="center" title="Experience with Adobe Photoshop" alt="Logo Photoshop" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg">
-  <img align="center" title="Experience with Figma" alt="Logo Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
-  <img align="center" title="Experience with Filezilla" alt="Logo Filezilla" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg"> 
-  <img align="center" title="Experience with Postman" alt="Logo Postman" height="35" width="35" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">   
+<!--   <img align="center" title="Experience with Adobe Photoshop" alt="Logo Photoshop" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg"> -->
+<!--   <img align="center" title="Experience with Figma" alt="Logo Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"> -->
+<!--   <img align="center" title="Experience with Filezilla" alt="Logo Filezilla" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg">  -->
+<!--   <img align="center" title="Experience with Postman" alt="Logo Postman" height="35" width="35" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">    -->
  
 </div>
  
