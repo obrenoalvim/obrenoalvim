@@ -19,7 +19,6 @@
    
    #### • Learning : 
    <div style="display: inline_block;">
- <img align="center" title="Learning Laravel" alt="Logo Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg">
   <img align="center" title="Learning Dart" alt="Logo Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   <img align="center" title="Learning Flutter" alt="Logo Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" title="Learning Node" alt="Logo Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
@@ -38,6 +37,7 @@
   <img align="center" title="Experience with Html5" alt="Logo Html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" title="Experience with Css3" alt="Logo Css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
   <img align="center" title="Experience with MySql" alt="Logo MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">  
+ <img align="center" title="Experience with Laravel" alt="Logo Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg">
 <!--  <img align="center" title="Experience with PhpMyAdmin" alt="Logo PhpMyAdmin" height="30" width="40" src="https://en.filetogo.net/storage/3272/icon_6062d9e5c7f06_3272.png">  -->
   <img align="center" title="Experience with Git" alt="Logo Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> 
 <!--   <img align="center" title="Experience with GitHub" alt="Logo GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"> -->
