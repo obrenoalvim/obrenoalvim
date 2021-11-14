@@ -15,7 +15,7 @@
 
 </div>
  
-## ⚙️ Technologies & Tools 💻
+## Technologies & Tools ⚙️
    
    #### • Learning : 
    <div style="display: inline_block;">
