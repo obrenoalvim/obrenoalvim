@@ -59,7 +59,7 @@
   <a title="Linkedin" href="https://www.linkedin.com/in/brenoalvim" target="_blank">
    <img title="Linkedin" alt="Logo Linkedin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" target="_blank"></a>
  
-<!--  ![Snake animation](https://github.com/brenoalvim/brenoalvim/blob/output/github-contribution-grid-snake.svg) -->
+ ![Snake animation](https://github.com/brenoalvim/brenoalvim/blob/output/github-contribution-grid-snake.svg)
  
  </div> 
 
