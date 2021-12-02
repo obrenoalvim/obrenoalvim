@@ -26,6 +26,7 @@
   <img align="center" title="Learning Firebase" alt="Logo Firebase" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg">
   <img align="center" title="Learning Docker" alt="Logo Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
   <img align="center" title="Learning AWS" alt="Logo AWS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" title="Learning Laravel" alt="Logo Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg">
   
    
  #### • Experience with :
@@ -37,16 +38,9 @@
   <img align="center" title="Experience with Html5" alt="Logo Html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" title="Experience with Css3" alt="Logo Css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
   <img align="center" title="Experience with MySql" alt="Logo MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">  
- <img align="center" title="Experience with Laravel" alt="Logo Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg">
-<!--  <img align="center" title="Experience with PhpMyAdmin" alt="Logo PhpMyAdmin" height="30" width="40" src="https://en.filetogo.net/storage/3272/icon_6062d9e5c7f06_3272.png">  -->
   <img align="center" title="Experience with Git" alt="Logo Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> 
-<!--   <img align="center" title="Experience with GitHub" alt="Logo GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"> -->
-<!--   <img align="center" title="Experience with Visual Studio Code" alt="Logo Visual Studio Code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">  -->
   <img align="center" title="Experience with Bootstrap" alt="Logo Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">  
-<!--   <img align="center" title="Experience with Adobe Photoshop" alt="Logo Photoshop" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg"> -->
-<!--   <img align="center" title="Experience with Figma" alt="Logo Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"> -->
-<!--   <img align="center" title="Experience with Filezilla" alt="Logo Filezilla" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg">  -->
-<!--   <img align="center" title="Experience with Postman" alt="Logo Postman" height="35" width="35" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">    -->
+
  
 </div>
  
