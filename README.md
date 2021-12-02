@@ -9,15 +9,15 @@
    src="https://github-readme-stats.vercel.app/api?username=brenoalvim&show_icons=true&theme=gotham&include_all_commits=true&count_private=true">
    </a>
    <a title="GitHub Readme Stats" href="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoalvim&layout=compact&langs_count=8&theme=react" target="_blank">
-   <img height="180em" title="GitHub Readme Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoalvim&layout=compact&langs_count=8&theme=react"/>
+   <img height="180em" title="GitHub Readme Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoalvim&layout=compact&langs_count=8&theme=gotham"/>
    </a>
    
 
 </div>
  
 ## Technologies & Tools ⚙️
-   
-   #### • Learning : 
+
+ #### • Learning : 
    <div style="display: inline_block;">
   <img align="center" title="Learning Dart" alt="Logo Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   <img align="center" title="Learning Flutter" alt="Logo Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
@@ -43,7 +43,7 @@
 
  
 </div>
- 
+
  ## Contacts
  
 <div>
