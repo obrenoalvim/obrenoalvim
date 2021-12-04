@@ -9,7 +9,7 @@
    src="https://github-readme-stats.vercel.app/api?username=brenoalvim&show_icons=true&theme=gotham&include_all_commits=true&count_private=true">
    </a>
    <a title="GitHub Readme Stats" href="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoalvim&layout=compact&langs_count=8&theme=react" target="_blank">
-   <img height="180em" title="GitHub Readme Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoalvim&layout=compact&langs_count=8&theme=gotham"/>
+   <img height="180em" title="GitHub Readme Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoalvim&layout=compact&langs_count=6&theme=gotham"/>
    </a>
    
 
