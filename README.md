@@ -46,6 +46,7 @@
   <img align="center" title="Experience with MySql" alt="Logo MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">  
   <img align="center" title="Experience with Git" alt="Logo Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> 
   <img align="center" title="Experience with Bootstrap" alt="Logo Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">  
+ <img align="center" title="Experience with Filezilla" alt="Logo Filezilla" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg">  
 
  
 </div>
@@ -59,7 +60,7 @@
   <a title="Linkedin" href="https://www.linkedin.com/in/brenoalvim" target="_blank">
    <img title="Linkedin" alt="Logo Linkedin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" target="_blank"></a>
  
-<!--  ![Snake animation](https://github.com/brenoalvim/brenoalvim/blob/output/github-contribution-grid-snake.svg) -->
+ ![Snake animation](https://github.com/brenoalvim/brenoalvim/blob/output/github-contribution-grid-snake.svg)
  
  </div> 
 
