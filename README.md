@@ -8,9 +8,8 @@
 
  <div style="display: inline_block;" align="center">
  
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=brenoalvim&theme=react&hide_border=true&date_format=j%2Fn%5B%2FY%5D)" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=brenoalvim&hide_border=true&theme=react" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoalvim&layout=compact&langs_count=6&theme=react&border_radius=4&hide_border=true"/>
-
 
 </div>
  
@@ -20,8 +19,6 @@
    <div style="display: inline_block;">
   <img align="center" title="Learning Dart" alt="Logo Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
  <img align="center" title="Learning Node" alt="Logo Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  
-  
   
  #### • Interest in :
    
