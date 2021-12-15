@@ -1,17 +1,16 @@
-## Hello, World! 🌎
+<!-- ## Hello, World! 🌎 -->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=<Hello+World!+/>&size=64&height=100&width=1920&center=true)](https://git.io/typing-svg)
 
 #### Hi, my name is Breno Alvim, I'm 19 years old and I'm currently working as a Web Developer.
 
 ## GitHub Stats 📈
 
- <div>
-   <a title="GitHub Readme Stats" href="https://github-readme-stats.vercel.app/api?username=brenoalvim&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"      target="_blank"><img height="180em" title="GitHub Readme Stats"
-   src="https://github-readme-stats.vercel.app/api?username=brenoalvim&show_icons=true&theme=gotham&include_all_commits=true&count_private=true">
-   </a>
-   <a title="GitHub Readme Stats" href="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoalvim&layout=compact&langs_count=8&theme=react" target="_blank">
-   <img height="180em" title="GitHub Readme Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoalvim&layout=compact&langs_count=6&theme=gotham"/>
-   </a>
-   
+ <div style="display: inline_block;" align="center">
+ 
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=brenoalvim&theme=Javascript-dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D)" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoalvim&layout=compact&langs_count=6&theme=gotham&border_radius=4&hide_border=true"/>
+
 
 </div>
  
