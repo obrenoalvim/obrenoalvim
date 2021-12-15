@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=<Hello+World!+/>&size=64&height=100&width=1920&center=true)](https://git.io/typing-svg)
 
-#### Hi, my name is Breno Alvim, I'm 19 years old and I'm currently working as a Web Developer.
+#### Hi, my name is Breno Alvim, I'm 20 years old and I'm currently working as a Web Developer.
 
 ## GitHub Stats 📈
 
