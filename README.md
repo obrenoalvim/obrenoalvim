@@ -8,8 +8,8 @@
 
  <div style="display: inline_block;" align="center">
  
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=brenoalvim&theme=Javascript-dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D)" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoalvim&layout=compact&langs_count=6&theme=gotham&border_radius=4&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=brenoalvim&theme=react&hide_border=true&date_format=j%2Fn%5B%2FY%5D)" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoalvim&layout=compact&langs_count=6&theme=react&border_radius=4&hide_border=true"/>
 
 
 </div>
