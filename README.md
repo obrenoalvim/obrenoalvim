@@ -5,13 +5,16 @@
 #### Hi, my name is Breno Alvim, I'm 20 years old and I'm currently working as a Web Developer.
 
 ## GitHub Stats 📈
-
+<a href="http://githubstats.epizy.com/" target="_blank">
+ 
  <div style="display: inline_block;" align="center">
  
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=brenoalvim&hide_border=true&theme=react" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoalvim&layout=compact&langs_count=6&theme=react&border_radius=4&hide_border=true"/>
 
 </div>
+ 
+ </a>
  
 ## Technologies & Tools ⚙️
 
