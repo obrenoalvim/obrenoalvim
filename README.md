@@ -4,7 +4,7 @@
 
 #### Hi, my name is Breno Alvim, I'm 20 years old and I'm currently working as a Web Developer.
 
-## GitHub Stats 📈
+## GitHub Stats
 <a href="http://githubstats.epizy.com/" target="_blank">
  
  <div style="display: inline_block;" align="center">
@@ -16,7 +16,7 @@
  
  </a>
  
-## Technologies & Tools ⚙️
+## Technologies & Tools
 
  #### • Learning : 
    <div style="display: inline_block;">
