@@ -1,6 +1,6 @@
 <!-- ## Hello, World! 🌎 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=<Hello+World!+/>&size=64&height=100&width=1920&center=true)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=%3CHello+World!+%2F%3E;Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
 
 #### Hi, my name is Breno Alvim, I'm 20 years old and I'm currently working as a Web Developer.
 
