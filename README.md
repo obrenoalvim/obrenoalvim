@@ -32,6 +32,7 @@
  <img align="center" title="Interest in Flutter" alt="Logo Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
  <img align="center" title="Interest in React" alt="Logo React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
  <img align="center" title="Interest in Vue" alt="Logo Vue" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
+ <img align="center" title="Interest in MariaDB" alt="Logo MariaDB" height="30" width="30" src="https://www.pngkit.com/png/full/813-8136166_mariadb-corporation-ab-mariadb.png">
   
  
  
