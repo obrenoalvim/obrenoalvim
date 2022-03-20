@@ -31,9 +31,6 @@
   <img align="center" title="Interest in Laravel" alt="Logo Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg">
  <img align="center" title="Interest in Flutter" alt="Logo Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
  <img align="center" title="Interest in React" alt="Logo React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
- <img align="center" title="Interest in Vue" alt="Logo Vue" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
- <img align="center" title="Interest in MariaDB" alt="Logo MariaDB" height="30" width="30" src="https://www.pngkit.com/png/full/813-8136166_mariadb-corporation-ab-mariadb.png">
-  
  
  
  #### • Experience with :
@@ -41,6 +38,7 @@
 <div style="display: inline_block;">
   <img align="center" title="Experience with PHP" alt="Logo Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" title="Experience with JavaScript" alt="Logo JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+ <img align="center" title="Experience with Vue" alt="Logo Vue" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
   <img align="center" title="Experience with Python" alt="Logo Pyhton" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" title="Experience with Html5" alt="Logo Html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" title="Experience with Css3" alt="Logo Css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
@@ -48,6 +46,7 @@
   <img align="center" title="Experience with Git" alt="Logo Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> 
   <img align="center" title="Experience with Bootstrap" alt="Logo Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">  
  <img align="center" title="Experience with Filezilla" alt="Logo Filezilla" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg">  
+  <img align="center" title="Experience with Visual Studio Code" alt="Logo Visual Studio Code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">  
 
  
 </div>
