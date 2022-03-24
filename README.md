@@ -18,37 +18,45 @@
  
 ## Technologies & Tools
 
- #### • Learning : 
+ ##### • Learning : 
    <div style="display: inline_block;">
   <img align="center" title="Learning Dart" alt="Logo Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
  <img align="center" title="Learning Node" alt="Logo Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   
- #### • Interest in :
+ ##### • Interest in :
    
  <img align="center" title="Interest in Firebase" alt="Logo Firebase" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg">
   <img align="center" title="Interest in Docker" alt="Logo Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
   <img align="center" title="Interest in AWS" alt="Logo AWS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
-  <img align="center" title="Interest in Laravel" alt="Logo Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg">
+  
  <img align="center" title="Interest in Flutter" alt="Logo Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
  <img align="center" title="Interest in React" alt="Logo React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
  
  
- #### • Experience with :
+ #### • Experience with 
  
-<div style="display: inline_block;">
-  <img align="center" title="Experience with PHP" alt="Logo Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+ ##### • Languages
+ <img align="center" title="Experience with PHP" alt="Logo Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" title="Experience with JavaScript" alt="Logo JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
- <img align="center" title="Experience with Vue" alt="Logo Vue" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
   <img align="center" title="Experience with Python" alt="Logo Pyhton" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" title="Experience with Html5" alt="Logo Html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" title="Experience with Css3" alt="Logo Css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-  <img align="center" title="Experience with MySql" alt="Logo MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">  
-  <img align="center" title="Experience with Git" alt="Logo Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> 
-  <img align="center" title="Experience with Bootstrap" alt="Logo Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">  
- <img align="center" title="Experience with Filezilla" alt="Logo Filezilla" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg">  
-  <img align="center" title="Experience with Visual Studio Code" alt="Logo Visual Studio Code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">  
-
  
+ 
+ ##### • Framework 
+ 
+ <img align="center" title="Experience with Vue" alt="Logo Vue" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
+ <img align="center" title="Interest in Laravel" alt="Logo Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg">
+ <img align="center" title="Experience with Bootstrap" alt="Logo Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">  
+ 
+ ##### • Database 
+ 
+ <img align="center" title="Experience with MySql" alt="Logo MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">  
+ 
+  ##### • Tools
+ 
+   <img align="center" title="Experience with Git" alt="Logo Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> 
+  <img align="center" title="Experience with Filezilla" alt="Logo Filezilla" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg">  
+  <img align="center" title="Experience with Visual Studio Code" alt="Logo Visual Studio Code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">  
+  
 </div>
 
  ## Contacts
