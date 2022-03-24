@@ -21,11 +21,10 @@
  <div style="display: inline_block;">
 
  ##### • Languages
- <img align="center" title="Experience with PHP" alt="Logo Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <img align="center" title="Experience with JavaScript" alt="Logo JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img align="center" title="Experience with Python" alt="Logo Pyhton" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" title="Experience with JavaScript" alt="Logo JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
  <img align="center" title="Experience with Typescript" alt="Logo Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
- 
+  <img align="center" title="Experience with Python" alt="Logo Pyhton" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" title="Experience with PHP" alt="Logo Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
  
  ##### • Framework 
  
