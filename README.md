@@ -42,6 +42,7 @@
    <img align="center" title="Experience with Git" alt="Logo Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> 
   <img align="center" title="Experience with Filezilla" alt="Logo Filezilla" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg">  
   <img align="center" title="Experience with Visual Studio Code" alt="Logo Visual Studio Code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">  
+  <img align="center" title="Experience with Figma" alt="Logo Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">  
   
 </div>
 
