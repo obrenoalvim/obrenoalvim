@@ -18,23 +18,8 @@
  
 ## Technologies & Tools
 
- ##### • Learning : 
-   <div style="display: inline_block;">
-  <img align="center" title="Learning Dart" alt="Logo Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
- <img align="center" title="Learning Node" alt="Logo Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  
- ##### • Interest in :
-   
- <img align="center" title="Interest in Firebase" alt="Logo Firebase" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg">
-  <img align="center" title="Interest in Docker" alt="Logo Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
-  <img align="center" title="Interest in AWS" alt="Logo AWS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
-  
- <img align="center" title="Interest in Flutter" alt="Logo Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
- <img align="center" title="Interest in React" alt="Logo React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
- 
- 
- #### • Experience with 
- 
+ <div style="display: inline_block;">
+
  ##### • Languages
  <img align="center" title="Experience with PHP" alt="Logo Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" title="Experience with JavaScript" alt="Logo JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
@@ -50,6 +35,7 @@
  ##### • Database 
  
  <img align="center" title="Experience with MySql" alt="Logo MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">  
+  <img align="center" title="Experience with Firebird" alt="Logo Firebird" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Firebird_logo.svg/1200px-Firebird_logo.svg.png"> 
  
   ##### • Tools
  
