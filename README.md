@@ -5,7 +5,7 @@
 #### Hi, my name is Breno Alvim, I'm 20 years old and I'm currently working as a Web Developer.
 
 ## GitHub Stats
-<a href="https://brenoalvim.github.io/stats/" target="_blank">
+<a href="https://brenoalvim.github.io/MyStats/" target="_blank">
  
  <div style="display: inline_block;" align="center">
  
@@ -44,6 +44,18 @@
   <img align="center" title="Experience with Filezilla" alt="Logo Filezilla" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg">  
   <img align="center" title="Experience with Visual Studio Code" alt="Logo Visual Studio Code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">  
   <img align="center" title="Experience with Figma" alt="Logo Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">  
+  <img align="center" title="Experience with Photoshop" alt="Logo Photoshop" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg">  
+  <img align="center" title="Experience with GitHub" alt="Logo GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">  
+ 
+ ##### • Others
+ 
+ <img align="center" title="Experience with HTML5" alt="Logo HTML5" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
+ 
+  <img align="center" title="Experience with CSS3" alt="Logo CSS3" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+  
+   <img align="center" title="Experience with Linux" alt="Logo Linux" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> 
+ 
+   <img align="center" title="Experience with NodeJS" alt="Logo NodeJS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> 
   
 </div>
 
