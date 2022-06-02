@@ -100,5 +100,4 @@ I am a Full-Stack Web Developer, working professionally in the field since March
 
 <a href="https://www.buymeacoffee.com/brenoalvim"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
-
 <!--  ![Snake animation](https://github.com/brenoalvim/brenoalvim/blob/output/github-contribution-grid-snake.svg) -->
