@@ -1,7 +1,7 @@
 Hi 👋 My name is Breno Alvim
 ============================
 
-Web Developer
+Web Developer Front-End
 -------------
 
 I am a Full-Stack Web Developer, working professionally in the field since March 2021. I enjoy generating new ideas and developing viable solutions to widely relevant problems. Throughout my career I went through several challenges that made me progress and learn quickly, so I always try to pass my knowledge on, teaching as many people as possible.
