@@ -8,7 +8,7 @@ I am a Full-Stack Web Developer, working professionally in the field since March
 
 * ✉️  You can contact me at [brenoalvim.dev@gmail.com](mailto:brenoalvim.dev@gmail.com)
 * 🚀  I'm currently working on [MyStats](http://brenoalvim.github.io/MyStats)
-* 🧠  I'm learning Next
+* 🧠  I'm learning Next.js
 
 <a href="https://www.twitter.com/obrenoalvim" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/twitter/follow/obrenoalvim?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"/>
