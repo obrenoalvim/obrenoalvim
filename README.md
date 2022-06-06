@@ -7,7 +7,7 @@ Web Developer Front-End
 I am a Full-Stack Web Developer, working professionally in the field since March 2021. I enjoy generating new ideas and developing viable solutions to widely relevant problems. Throughout my career I went through several challenges that made me progress and learn quickly, so I always try to pass my knowledge on, teaching as many people as possible.
 
 * ✉️  You can contact me at [brenoalvim.dev@gmail.com](mailto:brenoalvim.dev@gmail.com)
-* 🚀  I'm currently working on [MyStats](http://brenoalvim.github.io/MyStats)
+* 🚀  I'm currently working on [AboutMe](http://brenoalvim.github.io/AboutMe)
 * 🧠  I'm learning Next.js
 
 <a href="https://www.twitter.com/obrenoalvim" target="_blank" rel="noreferrer">
