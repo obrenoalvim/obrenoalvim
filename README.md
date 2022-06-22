@@ -1,4 +1,3 @@
-# 💫About Me :
 ✉️  You can contact me at brenoalvim.dev@gmail.com
 <br>
 🚀  I'm currently working on AboutMe
