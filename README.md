@@ -1,6 +1,6 @@
 ✉️  You can contact me at brenoalvim.dev@gmail.com
 <br>
-🚀  I'm currently working on AboutMe
+🚀  I'm currently working on GitStats
 <br>
 🧠  I'm learning Next.js
 
