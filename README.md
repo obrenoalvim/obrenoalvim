@@ -2,7 +2,7 @@
 <br>
 🚀  I'm currently working on GitStats
 <br>
-🧠  I'm learning Next.js
+🧠  I'm learning TypeScript
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brenoalvim) 
