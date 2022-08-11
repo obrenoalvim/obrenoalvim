@@ -1,5 +1,7 @@
 # About Me:
-🌱 I’m currently learning Next.JS<br>💬 Ask me about JavaScript
+I’m currently learning Next.JS
+<br>
+Ask me about JavaScript
 
 
 ## 🌐 Socials:
