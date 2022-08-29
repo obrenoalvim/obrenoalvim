@@ -12,7 +12,7 @@ Ask me about JavaScript
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=brenoalvim&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=brenoalvim&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=brenoalvim&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=brenoalvim&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
   
 
 ## 🏆 GitHub Trophies
