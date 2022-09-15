@@ -1,5 +1,5 @@
 # About Me:
-I’m currently learning Next
+I’m currently learning Next.js
 <br>
 Ask me about JavaScript
 
