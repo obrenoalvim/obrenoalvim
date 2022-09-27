@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer Full-Stack
 ------------------------
 
-Gosto de gerar novas ideias e desenvolver soluções viáveis para problemas amplamente relevantes. Durante toda minha carreira passei por diversos desafios que me fizeram progredir e aprender rapidamente, com isso tento sempre passar meus conhecimentos a frente, ensinando o maior número de pessoas possíveis.
+I enjoy generating new ideas and developing viable solutions to broadly relevant problems. Throughout my career I went through several challenges that made me progress and learn quickly, so I always try to pass my knowledge on, teaching as many people as possible.
 
 * 🌍  I'm based in Brazil
 * 🖥️  See my portfolio at [AboutMe](http://brenoalvim.vercel.app)
