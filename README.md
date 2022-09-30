@@ -9,7 +9,6 @@ I enjoy generating new ideas and developing viable solutions to broadly relevant
 * 🌍  I'm based in Brazil
 * 🖥️  See my portfolio at [AboutMe](http://brenoalvim.vercel.app)
 * ✉️  You can contact me at [brenoalvim.dev@gmail.com](mailto:brenoalvim.dev@gmail.com)
-* 🚀  I'm currently working on [CanteenApp](http://github.com/brenoalvim/CanteenAppRN)
 * 🧠  I'm learning React Native
 * ⚡  Music, design and audiovisual production enthusiast.
 
