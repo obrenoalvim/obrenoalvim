@@ -4,10 +4,6 @@ Hi 👋 My name is Breno Alvim
 Web Developer Full-Stack
 ------------------------
 
-* 🌍  I'm based in Barreiras, BA.
-* 🖥️  See my portfolio at [AboutMe](http://brenoalvim.vercel.app)
-* 🧠  I'm learning Spring Boot
-
 ### Skills
 
 <p align="left">
