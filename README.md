@@ -1,6 +1,3 @@
-Hi 👋 My name is Breno Alvim
-============================
-
 Web Developer Full-Stack
 ------------------------
 
