@@ -40,7 +40,7 @@ Web Developer Full-Stack
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=brenoalvim&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brenoalvim&hide=Html&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brenoalvim&theme=github_dark) |
 | :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brenoalvim&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brenoalvim&theme=github_dark&utcOffset=8)|
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brenoalvim&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brenoalvim&theme=github_dark&utcOffset=-3)|
 | :-: | :-: |
 
 
