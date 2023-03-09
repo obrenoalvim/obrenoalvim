@@ -34,7 +34,7 @@ Web Developer Full-Stack
 <!-- <a href="https://github.com/brenoalvim" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=brenoalvim&show_icons=true&locale=en&layout=compact&hide_border=true&theme=react&langs_count=10" alt="Top Languages" /></a> -->
 
 <!-- status -->
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=obrenoalvim&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=obrenoalvim&hide=Html&theme=github_dark)
+| ![](https://awesome-github-stats.azurewebsites.net/user-stats/obrenoalvim?cardType=level&theme=github-dark&preferLogin=false&Background=0D1117&Text=6B737C&Border=DDDDDD00&Title=0366C3&Ring=0366C3) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=obrenoalvim&hide=Html&theme=github_dark)
 | :-: | :-: |
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=obrenoalvim&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=obrenoalvim&theme=github_dark&utcOffset=-3)|
