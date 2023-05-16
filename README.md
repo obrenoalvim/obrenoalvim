@@ -26,15 +26,3 @@ Web Developer Full-Stack
   
 </p>
 
-### Stats
-
-<!-- <a href="https://github.com/brenoalvim" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=brenoalvim&show_icons=true&locale=en&layout=compact&hide_border=true&theme=react&langs_count=10" alt="Top Languages" /></a> -->
-
-<!-- status -->
-| ![](https://github-stats-alpha.vercel.app/api?username=obrenoalvim&cc=22272e&tc=37BCF6&ic=fff&bc=0000) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=obrenoalvim&hide=Html&theme=github_dark)
-| :-: | :-: |
-
-<!-- | ![]() |
-| :-: | -->
-
-
