@@ -1,6 +1,3 @@
-Web Developer Full-Stack
-------------------------
-
 ### Skills
 
 <p align="left">
