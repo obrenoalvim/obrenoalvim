@@ -29,6 +29,6 @@ Atualmente na **Movida**, construindo produtos para milhões de usuários.
 
 ## Contato
 
-- LinkedIn: [linkedin.com/in/brenoalvim](https://linkedin.com/in/brenoalvim)
+- LinkedIn: [linkedin.com/in/brenoalvim](https://linkedin.com/in/obrenoalvim)
 - Email: brenoalvim.dev@gmail.com
 - Portfolio: [githubportifoliogenerator.vercel.app/obrenoalvim](https://githubportifoliogenerator.vercel.app/obrenoalvim)
