@@ -390,6 +390,7 @@
 <rect class="cell" x="808" y="49" width="12" height="12" rx="2.5" fill="#0e4429" style="animation-delay:0.318s"><title>2026-08-17: 1</title></rect>
 <rect class="cell" x="808" y="64" width="12" height="12" rx="2.5" fill="#0e4429" style="animation-delay:0.324s"><title>2026-08-18: 1</title></rect>
 <rect class="cell" x="808" y="79" width="12" height="12" rx="2.5" fill="#0e4429" style="animation-delay:0.330s"><title>2026-08-19: 1</title></rect>
+<rect class="cell" x="808" y="94" width="12" height="12" rx="2.5" fill="#161b22" style="animation-delay:0.336s"><title>2026-08-20: 0</title></rect>
 <text class="legend-label" x="28" y="160">Less</text>
 <rect x="60" y="151" width="12" height="12" rx="2.5" fill="#161b22"/>
 <rect x="75" y="151" width="12" height="12" rx="2.5" fill="#0e4429"/>
@@ -397,5 +398,5 @@
 <rect x="105" y="151" width="12" height="12" rx="2.5" fill="#26a641"/>
 <rect x="120" y="151" width="12" height="12" rx="2.5" fill="#39d353"/>
 <text class="legend-label" x="139" y="160">More</text>
-<text class="footer" x="28" y="183">247 active days in the last year · current streak 28 · longest 28</text>
+<text class="footer" x="28" y="183">247 active days in the last year · current streak 0 · longest 28</text>
 </svg>
