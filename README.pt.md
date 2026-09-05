@@ -1,8 +1,8 @@
-English | [Português](README.pt.md)
+[English](README.md) | Português
 
 # Breno Alvim
 
-Web developer focused on interfaces and tools that solve real problems. I work with TypeScript, Next.js and React day to day, and have a particular soft spot for projects that combine design with usefulness.
+Desenvolvedor web focado em interfaces e ferramentas que resolvem problemas reais. Trabalho com TypeScript, Next.js e React no dia a dia, e tenho um apreço particular por projetos que combinam design e utilidade.
 
 <div align="center">
 
@@ -16,7 +16,7 @@ Web developer focused on interfaces and tools that solve real problems. I work w
 
 </div>
 
-## Contact
+## Contato
 
 - LinkedIn: [linkedin.com/in/obrenoalvim](https://linkedin.com/in/obrenoalvim)
 - Email: brenoalvim.dev@gmail.com
