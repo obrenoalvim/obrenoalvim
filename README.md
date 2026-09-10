@@ -2,7 +2,7 @@ English | [Português](README.pt.md)
 
 # Breno Alvim
 
-Web developer focused on interfaces and tools that solve real problems. I work with TypeScript, Next.js and React day to day, and have a particular soft spot for projects that combine design with usefulness.
+Senior Full-Stack developer (8+ years). Node/NestJS/Next.js, React/Angular, PHP/Laravel, GCP cloud & DevOps (Docker/K8s), LLM/RAG. Remote, based in Brazil. Currently building [BloodLink](https://lnkd.in/d7QM2gDf), a platform connecting blood donors to people in need.
 
 <div align="center">
 

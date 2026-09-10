@@ -2,7 +2,7 @@
 
 # Breno Alvim
 
-Desenvolvedor web focado em interfaces e ferramentas que resolvem problemas reais. Trabalho com TypeScript, Next.js e React no dia a dia, e tenho um apreço particular por projetos que combinam design e utilidade.
+Desenvolvedor Full-Stack Sênior (8+ anos). Node/NestJS/Next.js, React/Angular, PHP/Laravel, Cloud GCP & DevOps (Docker/K8s), LLM/RAG. Remoto, no Brasil. Construindo o [BloodLink](https://lnkd.in/d7QM2gDf), plataforma que liga doadores de sangue a quem precisa.
 
 <div align="center">
 
