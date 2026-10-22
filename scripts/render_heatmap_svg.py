@@ -27,7 +27,7 @@ def to_weeks(days):
     if not days:
         return []
     first = datetime.strptime(days[0]["date"], "%Y-%m-%d")
-    lead_blanks = (first.weekday() + 1) % 7  # week starts Sunday
+    lead_blanks = (first.weekday() + 1) % 7
     weeks = []
     week = [None] * lead_blanks
     for day in days:
