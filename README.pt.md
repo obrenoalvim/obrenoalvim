@@ -21,7 +21,7 @@ Desenvolvedor Full-Stack Sênior (8+ anos). Node/NestJS/Next.js, React/Angular, 
   </tr>
   <tr>
     <td><b>IA</b></td>
-    <td><img src="assets/icons/claude.svg" width="40" alt="Claude" title="Claude" /> <img src="assets/icons/openai.svg" width="40" alt="OpenAI" title="OpenAI" /> <img src="assets/icons/googlegemini.svg" width="40" alt="Gemini" title="Gemini" /> &nbsp;&nbsp; <img src="assets/icons/modelcontextprotocol.svg" width="40" alt="MCP" title="MCP" /> &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=pytorch" width="40" alt="PyTorch" title="PyTorch" /></td>
+    <td><img src="assets/icons/claude.svg" width="40" alt="Claude" title="Claude" /> <img src="assets/icons/openai.svg" width="40" alt="OpenAI" title="OpenAI" /> <img src="assets/icons/googlegemini.svg" width="40" alt="Gemini" title="Gemini" /> &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=pytorch" width="40" alt="PyTorch" title="PyTorch" /></td>
   </tr>
   <tr>
     <td><b>DevOps e Cloud</b></td>
