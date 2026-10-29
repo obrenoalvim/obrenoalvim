@@ -29,6 +29,10 @@ Desenvolvedor Full-Stack Sênior (8+ anos). Node/NestJS/Next.js, React/Angular, 
   </tr>
 </table>
 
+## Estatísticas
+
+<img src="https://traffic-cards.vercel.app/?type=repos" alt="Repos com mais views e clones nos últimos 14 dias" />
+
 ## Contato
 
 - LinkedIn: [linkedin.com/in/obrenoalvim](https://linkedin.com/in/obrenoalvim)

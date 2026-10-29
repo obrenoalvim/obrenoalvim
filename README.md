@@ -29,6 +29,10 @@ Senior Full-Stack developer (8+ years). Node/NestJS/Next.js, React/Angular, PHP/
   </tr>
 </table>
 
+## Stats
+
+<img src="https://traffic-cards.vercel.app/?type=repos" alt="Top repos by views and clones in the last 14 days" />
+
 ## Contact
 
 - LinkedIn: [linkedin.com/in/obrenoalvim](https://linkedin.com/in/obrenoalvim)
