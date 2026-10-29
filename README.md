@@ -6,11 +6,28 @@ Senior Full-Stack developer (8+ years). Node/NestJS/Next.js, React/Angular, PHP/
 
 ## Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript" title="TypeScript" /> <img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" title="JavaScript" /> <img src="https://skillicons.dev/icons?i=py" width="48" alt="Python" title="Python" /> <img src="https://skillicons.dev/icons?i=php" width="48" alt="PHP" title="PHP" /> <img src="https://skillicons.dev/icons?i=react" width="48" alt="React" title="React" /> <img src="https://skillicons.dev/icons?i=nextjs" width="48" alt="Next.js" title="Next.js" /> <img src="https://skillicons.dev/icons?i=angular" width="48" alt="Angular" title="Angular" /> <img src="https://skillicons.dev/icons?i=vue" width="48" alt="Vue" title="Vue" /> <img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind CSS" title="Tailwind CSS" /> <img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js" title="Node.js" /> <img src="https://skillicons.dev/icons?i=nestjs" width="48" alt="NestJS" title="NestJS" /> <img src="https://skillicons.dev/icons?i=laravel" width="48" alt="Laravel" title="Laravel" />
-<br />
-<img src="https://skillicons.dev/icons?i=fastapi" width="48" alt="FastAPI" title="FastAPI" /> <img src="https://skillicons.dev/icons?i=dotnet" width="48" alt=".NET" title=".NET" /> <img src="https://skillicons.dev/icons?i=electron" width="48" alt="Electron" title="Electron" /> <img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL" title="PostgreSQL" /> <img src="https://skillicons.dev/icons?i=redis" width="48" alt="Redis" title="Redis" /> <img src="https://skillicons.dev/icons?i=supabase" width="48" alt="Supabase" title="Supabase" /> <img src="https://skillicons.dev/icons?i=prisma" width="48" alt="Prisma" title="Prisma" /> <img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker" title="Docker" /> <img src="https://skillicons.dev/icons?i=kubernetes" width="48" alt="Kubernetes" title="Kubernetes" /> <img src="https://skillicons.dev/icons?i=gcp" width="48" alt="Google Cloud" title="Google Cloud" /> <img src="https://skillicons.dev/icons?i=githubactions" width="48" alt="GitHub Actions" title="GitHub Actions" /> <img src="https://skillicons.dev/icons?i=vercel" width="48" alt="Vercel" title="Vercel" />
-</p>
+<table>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=ts" width="40" alt="TypeScript" title="TypeScript" /> <img src="https://skillicons.dev/icons?i=js" width="40" alt="JavaScript" title="JavaScript" /> &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=react" width="40" alt="React" title="React" /> <img src="https://skillicons.dev/icons?i=nextjs" width="40" alt="Next.js" title="Next.js" /> &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=angular" width="40" alt="Angular" title="Angular" /> &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=vue" width="40" alt="Vue" title="Vue" /> &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=tailwind" width="40" alt="Tailwind CSS" title="Tailwind CSS" /> &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=electron" width="40" alt="Electron" title="Electron" /></td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs" width="40" alt="Node.js" title="Node.js" /> <img src="https://skillicons.dev/icons?i=nestjs" width="40" alt="NestJS" title="NestJS" /> &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=php" width="40" alt="PHP" title="PHP" /> <img src="https://skillicons.dev/icons?i=laravel" width="40" alt="Laravel" title="Laravel" /> &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=py" width="40" alt="Python" title="Python" /> <img src="https://skillicons.dev/icons?i=fastapi" width="40" alt="FastAPI" title="FastAPI" /> &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=cs" width="40" alt="C#" title="C#" /> <img src="https://skillicons.dev/icons?i=dotnet" width="40" alt=".NET" title=".NET" /></td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres" width="40" alt="PostgreSQL" title="PostgreSQL" /> <img src="https://skillicons.dev/icons?i=supabase" width="40" alt="Supabase" title="Supabase" /> <img src="https://skillicons.dev/icons?i=prisma" width="40" alt="Prisma" title="Prisma" /> &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=redis" width="40" alt="Redis" title="Redis" /></td>
+  </tr>
+  <tr>
+    <td><b>AI</b></td>
+    <td><img src="assets/icons/claude.svg" width="40" alt="Claude" title="Claude" /> <img src="assets/icons/openai.svg" width="40" alt="OpenAI" title="OpenAI" /> <img src="assets/icons/googlegemini.svg" width="40" alt="Gemini" title="Gemini" /> &nbsp;&nbsp; <img src="assets/icons/modelcontextprotocol.svg" width="40" alt="MCP" title="MCP" /> &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=pytorch" width="40" alt="PyTorch" title="PyTorch" /></td>
+  </tr>
+  <tr>
+    <td><b>DevOps & Cloud</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker" width="40" alt="Docker" title="Docker" /> <img src="https://skillicons.dev/icons?i=kubernetes" width="40" alt="Kubernetes" title="Kubernetes" /> &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=gcp" width="40" alt="Google Cloud" title="Google Cloud" /> <img src="https://skillicons.dev/icons?i=vercel" width="40" alt="Vercel" title="Vercel" /> &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=githubactions" width="40" alt="GitHub Actions" title="GitHub Actions" /></td>
+  </tr>
+</table>
 
 ## Contact
 
