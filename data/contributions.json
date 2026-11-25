@@ -1,6 +1,6 @@
 {
   "username": "obrenoalvim",
-  "fetched_at": "2026-11-24T17:50:46.739164+00:00",
+  "fetched_at": "2026-11-25T17:17:36.699711+00:00",
   "days": [
     {
       "date": "2025-11-23",
@@ -1469,10 +1469,14 @@
     {
       "date": "2026-11-24",
       "level": 1
+    },
+    {
+      "date": "2026-11-25",
+      "level": 0
     }
   ],
   "stats": {
-    "current_streak": 125,
+    "current_streak": 0,
     "longest_streak": 125,
     "best_day": {
       "date": "2026-06-23",
